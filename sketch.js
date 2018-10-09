@@ -15,7 +15,9 @@ function setup() {
 
 function draw() {
 	background(0);
-  image(duck, 0, 0, width, height);  
+  image(duck, 0, 0, width, height);
+	textSize(20);
+	text(w, 20, 20);
        
 	
 	
