@@ -1,5 +1,5 @@
 var duck;
-var w = wanted dead or alive;
+var w = "wanted dead or alive";
 
 function preload() {
    duck = loadImage("killer_duck.jpg"); 
