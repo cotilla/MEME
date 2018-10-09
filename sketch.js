@@ -8,7 +8,6 @@ function preload() {
 
 function setup() {
 	createCanvas(680, 750);
-	//1048 1032
 	text(w, 20, 20);
 }
 
